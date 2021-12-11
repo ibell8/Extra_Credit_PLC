@@ -1,0 +1,12 @@
+VOID MAIN ( ) {
+    public class say {
+        say = 5 ;
+    }
+    method int addThem ( ) {
+        x = 2 ;
+        y = 3 ;
+        z = x + y ;
+        z = 5 ;
+        return z ;
+    }
+}

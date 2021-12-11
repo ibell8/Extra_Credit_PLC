@@ -1,0 +1,3 @@
+VOID MAIN ( ) {
+    hey = 23 ;
+}
